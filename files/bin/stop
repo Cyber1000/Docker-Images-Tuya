@@ -1,0 +1,4 @@
+#!/bin/bash
+/usr/bin/config.sh
+cd /usr/bin/tuya-convert
+./stop_flash.sh
