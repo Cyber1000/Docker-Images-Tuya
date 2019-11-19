@@ -1,4 +1,4 @@
 - Build with: docker build -t tuya:latest .
 - if you want to build the original-project you should change this line in your DOCKERFILE as followed:
--- git clone -b master https://github.com/ct-Open-Source/tuya-convert.git && cd /usr/bin/tuya-convert && git checkout [commithash or tag]
--- replace [commithash or tag] with appropriate hash or tag from https://github.com/ct-Open-Source/tuya-convert.git
+  - git clone -b master https://github.com/ct-Open-Source/tuya-convert.git && cd /usr/bin/tuya-convert && git checkout [commithash or tag]
+  - replace [commithash or tag] with appropriate hash or tag from https://github.com/ct-Open-Source/tuya-convert.git
